@@ -1,7 +1,7 @@
 ---
 global:
   owner: owner@company.com
-  qsname: sample-taskcat-project
+  qsname: iac-taskcat-project
   regions:
     - ap-northeast-1
     - ap-northeast-2
